@@ -1,0 +1,6 @@
+numpy
+matplotlib
+gym
+
+# for windows
+atari_pi -> https://github.com/Kojoley/atari-py

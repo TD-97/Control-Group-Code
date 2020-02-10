@@ -1,0 +1,10 @@
+# make sure we don't record every file
+mpc
+.mpc
+.vscode
+.mpcrl
+__pycache__
+hubway.db
+Database
+Illustrations
+.sql
